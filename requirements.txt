@@ -5,8 +5,6 @@ optuna==2.10.0
 plotly==5.6.0
 streamlit==1.8.1
 seaborn==0.11.1
-halo==0.0.31
-eli5==0.11.0
 numpy==1.21.2
 joblib==1.1.0
 jinja2==3.1.1
