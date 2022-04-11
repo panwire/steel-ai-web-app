@@ -14,7 +14,6 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import streamlit as st
-import pandasql.sqldf as exec_sql
 import plotly.express as px
 import plotly.graph_objects as go
 import plotly.figure_factory as ff
