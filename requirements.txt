@@ -9,5 +9,6 @@ halo==0.0.31
 eli5==0.11.0
 numpy==1.21.2
 joblib==1.1.0
+jinja2==3.1.1
 scikit_learn==1.0.2
 statsmodels==0.13.2

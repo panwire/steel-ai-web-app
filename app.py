@@ -22,7 +22,6 @@ import plotly.graph_objects as go
 import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import cm
-from halo import HaloNotebook as Halo
 
 ###### Class, Methods & Functions #########
 from multipage import MultiPage

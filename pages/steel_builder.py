@@ -10,7 +10,6 @@ import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
 import datetime
 from matplotlib.pyplot import cm
-from halo import HaloNotebook as Halo
 from pages import utils
 from datetime import date
 
