@@ -7,8 +7,6 @@ This app accomplishes serve two objectives:-
 """
 
 ###### Packages #########
-
-import eli5
 import optuna
 import joblib
 import pickle
